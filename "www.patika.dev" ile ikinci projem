@@ -1,1 +1,47 @@
-
+<h1><strong> Yunus Emre Çeşme</strong></h1>
+<h2 id="head" > </h2> 
+<!-- Ana başlık -->
+<h2>Hakkımda</h2>
+<!-- Alt başlık  -->
+<h4>Merhaba.Ben Yunus Emre Çeşme.İstanbul'da yaşıyorum.Dışarı çıkıp gezmeyi çok severim.Özellikle orman havası yada güzel bi nehir kenarı çok hoşuma gider.Patika eğitim serisi sayesinde güzel şeyler öğrendim ve öğrenmeye devam ediyorum.Yeni başlayan herkesin aramıza katılmasını tercih ederim!</h4>
+<!-- açıklama -->
+<br>
+<h2>İlgi alanlarım</h2>
+<ol>
+    <li>Doğa
+        <ul>
+            <li>Yuvacık Barajı</li>
+            <li>Kuzu Yayalası</li>     
+            <a href="https://basiskelegezi.com/yuvacik-baraji/" target="_blank">
+                <img width=200 height="200" src="img/1.1jpg.jpg" alt="yuvacık barajı">   
+            </a>
+        </ul>
+    </li>       
+    <br>
+    <li>Filimler
+        <ul>
+            <li>Hızlı ve Öfkeli 5</li>
+            <li>Taşıyıcı</li>
+            <a href="https://www.imdb.com/title/tt1596343/" target="_blank"> 
+                <img width=200 height="200"src="img/1.2 jpg.jpg" alt="hızlı ve öfkeli oyuncuları">
+            </a>  
+        </ul>
+    </li>       
+    <br>
+    <li>Arabalar
+        <ul>
+            <li>BMW</li>
+            <li>HONDA</li>
+            <a href="https://cdn.motor1.com/images/mgl/m6K7e/s3/bmw-e30-m3-by-redux.jpg">
+                <img  src="img/1.3.jpg" alt="araba">
+            </a>
+            <P><strong>BMW E30 M3 1984-1996 yıllarında üretilmiş olup günümüze kadar gelen klasık aynı zamanda bi okadar sportif olan bu araç çok sevdiğim ve uzun yıllardır hayalini kurduğum bir araçtır.</strong></P>
+        </ul>
+    </li>
+</ol>
+<li>
+    <a href="#head">
+        en üst kısma gitmek için tıklayınız
+    </a>
+</li>
+  
